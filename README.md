@@ -1,7 +1,6 @@
-# elite-qualifier
-# Title
+# Reddit Scrapper
 
-Simple (or clever and funny?) description
+This program gathers information from Reddit and displays it to you here instead of having to go to the Reddit website/app!
 
 ## Table of Contents
 
@@ -13,14 +12,15 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This program is essentially just Reddit but from the command line. This program doesn't have all the features Reddit has, but it also has some custom features. This program might still be updated.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+To run this program, you can either run the program here on Replit, or download the necessary files needed. 
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Enter certain numbers to execute certain commands, that's all basically.
 
 ### Any optional sections
+None.
