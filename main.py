@@ -1,6 +1,7 @@
 print("Hello Everyone!")
 
-pint("Hello, is anyone there?")
+print("Hello, is anyone there?")
 
 print("Added marke branch")
 
+print("submit test report")
